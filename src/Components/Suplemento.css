@@ -1,0 +1,33 @@
+
+
+.body_Page{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    display: block;
+
+}
+
+.container__article{
+    max-width: 1000px;
+    padding: 0px 20px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container__article .box__article{
+    display: block;
+    width: 200px;
+    height: 250px;
+    background: gainsboro;
+    margin: 20px;
+}
+/* 
+.obj{
+    background-color: red;
+    background: red;
+    height: 100vh;
+} */
